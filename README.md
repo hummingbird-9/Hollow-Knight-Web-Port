@@ -1,0 +1,1 @@
+The diff. between the optimized and non optimized is mainly visuals. If your chromebook or other device can't handle the normal version well, use the optimized version. The only caveat is that the optimized version won't look
